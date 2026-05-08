@@ -12,7 +12,7 @@ import pytz
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQueryHandler, filters, ContextTypes
 
-TOKEN = 8272954567:AAG3vHRWr3zD-gI-i1PiVx-iejskLBWVJZI"
+TOKEN = "8272954567:AAG3vHRWr3zD-gI-i1PiVx-iejskLBWVJZI"
 FOOTBALL_API_KEY = "4b559620c705450f958b5fb0548ab6d3"
 WEATHER_API_KEY = "bd5e378503939ddaee76f12ad7a97608"  # OpenWeatherMap gratuit
 SCORES_FILE = "scores.json"
